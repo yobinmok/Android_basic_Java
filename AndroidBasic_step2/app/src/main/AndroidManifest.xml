@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidBasic_step2">
         <activity
+            android:name=".CheckBoxActivity"
+            android:exported="true" />
+        <activity
             android:name=".OrderActivity"
             android:exported="true" />
         <activity
